@@ -1,0 +1,10 @@
+body{
+    width: 100%;
+    height: 100vh;
+    margin: 0;
+    /*Possibly change the background and font color*/
+    background-color:rgb(238, 235, 230);
+    color:#3d1b00;
+    /*Download font*/
+    font-family: 'Poppins', sans-serif;
+}
